@@ -169,8 +169,6 @@ After installing all the required dependencies on Ubuntu and save them into the 
 
     - __Detailed Explanation__: More information of UART can be found here (from AnalogueDialogue): https://www.analog.com/en/analog-dialogue/articles/uart-a-hardware-communication-protocol.html
 
-        ![UART_example](https://www.analog.com/-/media/images/analog-dialogue/en/volume-54/number-4/articles/uart-a-hardware-communication-protocol/335962-fig-02.svg?w=900&imgver=1)
-
     Choose the correct board you are using in the STM32CubeIDE board selection page. Then in the 'Pinout & Configuration' panel, the UART pins are selected as 'PA2' and 'PA3' (for 'USART_TX' and 'USART_RX') of the STM32F103RB board.
 
     ![pinout_1](images/stm_pinout_1.png)
